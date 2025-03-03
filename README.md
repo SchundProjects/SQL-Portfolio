@@ -1,0 +1,1 @@
+I have built a project based on student performance data using Microsoft Excel and SQL. This project was mainly on writing queries on students’ performances in school consisting of performance in classes, extracurriculars, and the GPA of the students           
