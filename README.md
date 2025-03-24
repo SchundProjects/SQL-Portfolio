@@ -6,7 +6,7 @@ The purpose of the student performance analysis project is to compare different 
 
 ### Problem Description
 
-Today, we see how students are busy with what's happening in their schools. While they have their strong points in areas like certain courses, they sometimes don't make a big impact on their GPA and also don't spend enough time outside of their courses. Same can happen the other way around. This analysis comapres these factors to give an idea to students on where they are excelling and where they are lacking so later on they will learn how to balance multiple aspects of school.
+Today, we see how students are busy with what's happening in their schools. While they have their strong points in areas like certain courses, they sometimes don't make a big impact on their GPA and also don't spend enough time outside of their courses. Same can happen the other way around. This analysis compares these factors to give an idea to students on where they are excelling and where they are lacking so later on they will learn how to balance multiple aspects of school.
 
 ### Dataset Information
 
